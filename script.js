@@ -1,3 +1,3 @@
-let random = Math.floor(Math.random()*1000)
 
-console.log(random+300)
+let random = Math.floor(Math.random()*1000);
+ console.log(random+100)
